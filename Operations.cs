@@ -13,7 +13,7 @@ namespace Operations
             Console.Write("Addition : "+c+"\n");
         }
 
-        public void Substract ( double a, double b )
+        public void Substract ( double a, double b )            //it is subtraction
         {
             double c;
             c=a-b;
